@@ -65,7 +65,7 @@ public class HelloController {
 - 스프링 부트 메뉴얼: [https://docs.spring.io/spring-boot/](https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/reference/html/)
 
 ### thymeleaf 템플릿엔진 동작 확인
-![image](./이미지/Pasted image 20250101183822.png)
+![Image](https://github.com/user-attachments/assets/483e990a-13de-408f-bddf-c3fbce1ac6f4)
 - 컨트롤러에서 리턴 값으로 문자를 반환하면 viewResolver가 화면을 찾아서 처리한다.
 	- 스프링 부트 템플릿 버전 기본 viewName 매핑
 	- resources: templates/ + {viewName} + .html
