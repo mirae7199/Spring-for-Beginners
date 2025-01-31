@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4529d324-900e-42fb-ac53-ef0988e35d29)# 정적 컨텐츠
+# 정적 컨텐츠
 - [스프링 부트 정적 컨텐츠 기능](https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/reference/html/spring-boot-features.html#boot-features-spring-mvc-static-content)
 
 **resources/static/hello-static.html**
