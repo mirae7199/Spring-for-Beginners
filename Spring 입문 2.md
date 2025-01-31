@@ -1,4 +1,4 @@
-# 정적 컨텐츠
+![image](https://github.com/user-attachments/assets/4529d324-900e-42fb-ac53-ef0988e35d29)# 정적 컨텐츠
 - [스프링 부트 정적 컨텐츠 기능](https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/reference/html/spring-boot-features.html#boot-features-spring-mvc-static-content)
 
 **resources/static/hello-static.html**
@@ -19,7 +19,7 @@
 - http://localhost:8080/hello-static.html
 
 
-![[Pasted image 20250101185254.png]]
+![Image](https://github.com/user-attachments/assets/39e2c7ed-284e-40cc-a1df-c4b4b6c5dd75)
 정적인 것은 static에
 동적인 것은 template에
 
@@ -67,7 +67,7 @@ public class HelloController {
 - viewResolver에 의해 hello-template에 name값이 전달된다.
 
 **MVC, 템플릿 엔진 이미지**
-![[Pasted image 20250101190829.png]]
+![Image](https://github.com/user-attachments/assets/c9f7da5b-6617-4237-93bf-d3bfa4ec17e3)
 
 ## API
 
@@ -92,7 +92,7 @@ public class HelloController {
 
 **실행**
 **name = spring**
-![[6D5CF957-9003-4A95-85B1-1CCF2C5B082A_4_5005_c.jpeg]]
+![Image](https://github.com/user-attachments/assets/01a2c153-3bd2-4212-8114-77c7c6773eed)
 return에 있는 값을 그대로 출력한다.
 
 **@ResponseBody 객체 반환**
@@ -128,7 +128,7 @@ public class HelloController {
 
 **실행**
 **name = 김미래** 
-![[82FC1673-B6C4-4DDD-ADC9-7C1EC755BCFD_4_5005_c.jpeg]]
+![Image](https://github.com/user-attachments/assets/bcdc047c-fe6c-4a35-b894-0f6d3954cf53)
 객체로 반환해서 JSON형태로 출력한다. (@ResponseBody를 썼을 때)
 ~~~ json
 {"name":"김미래"}
