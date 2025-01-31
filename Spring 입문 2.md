@@ -135,7 +135,7 @@ public class HelloController {
 ~~~
 
 **@ResponseBody 사용 원리**
-![[Pasted image 20250101192724.png]]
+![Image](https://github.com/user-attachments/assets/f6097949-13c8-4eea-b12b-6f4deb089fef)
 - @ResponseBody를 사용
 	- HTTP의 BODY에 문자 내용을 직접 반환
 	- viewResolver 대신에 HttpMessageConverter가 동작
